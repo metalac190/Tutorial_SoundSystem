@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4f4f6ffd5fa9d384e97ad20c8be688b7, type: 3}
-  m_Name: MUS_TestB
+  m_Name: MUS_Song03
   m_EditorClassIdentifier: 
   _musicLayers:
-  - {fileID: 8300000, guid: be04f25349bef954ca813714cd71f2ab, type: 3}
-  - {fileID: 8300000, guid: 4695b21621388954fa29205048788df9, type: 3}
-  - {fileID: 8300000, guid: 0816c1f7c62fc234db840b54bae338bd, type: 3}
-  _layerType: 0
-  _mixer: {fileID: 0}
+  - {fileID: 8300000, guid: 001a0db06a80dd446b596aeebf5ba6af, type: 3}
+  - {fileID: 8300000, guid: 70ba6e83ec4135c42a3bf4d319871923, type: 3}
+  - {fileID: 8300000, guid: 3cc6f316e24edf543a2fdf0fa062e6f1, type: 3}
+  _layerType: 1
+  _mixer: {fileID: 2715096586301985814, guid: 5da0aa93ae2cc514db2938d849e8fc08, type: 2}
