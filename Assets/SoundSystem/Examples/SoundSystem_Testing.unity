@@ -154,6 +154,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _songA: {fileID: 11400000, guid: 1faac6e5fe1755741b802adb5074d404, type: 2}
   _songB: {fileID: 11400000, guid: 7da4ebd99c2c5ab48b43e45c78146639, type: 2}
+  _songC: {fileID: 11400000, guid: 87aebb9215d78664d8a53af9834e3520, type: 2}
 --- !u!4 &28970571
 Transform:
   m_ObjectHideFlags: 0
